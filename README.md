@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danial Hakim</h1>
+<h1 align="center">Salam & Hi 👋, I'm Danial Hakim</h1>
 
 <p align="center">
   <img src="https://github.com/daniaalhakim14/daniaalhakim14/blob/main/Danial%20Photo%20Square.jpg?raw=true" alt="Danial Hakim" width="200" style="border-radius: 50%;" />
