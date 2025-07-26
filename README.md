@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Danial Hakim</h1>
-<h3 align="center">Final Year CS Student Specializing in Software Development | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniaalhakim14&label=Profile%20views&color=0e75b6&style=flat" alt="daniaalhakim14" />
+  <img src="https://github.com/daniaalhakim14/daniaalhakim14/blob/main/Danial%20Photo%20Square.jpg?raw=true" alt="Danial Hakim" width="200" style="border-radius: 50%;" />
 </p>
+
+<h3 align="center">Final Year CS Student Specializing in Software Development | Aspiring Full-Stack Developer</h3>
 
 ---
 
